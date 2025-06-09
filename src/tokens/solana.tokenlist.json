@@ -1,9 +1,13 @@
 {
   "chainId": 101,
-  "address": "PATGAUdCuTDaAB2hSW5nXgrF9yE1JPQ3d7v52iRdSvW",
-  "symbol": "PATG",
-  "name": "Patriot Gold Coin",
-  "decimals": 9,
-  "logoURI": "https://www.spaceplus.vip/img/patg.png", 
-  "tags": ["memecoin", "community"]
+  "address": "numoj4ie4bhy9WKyHU13BeCUC817pKvgDwMUCPCAdUT",
+  "symbol": "NUMO",
+  "name": "NUMORO",
+  "decimals": 8,
+  "logoURI": "https://www.numoro.io/images/nmr_symbol.png",
+  "tags": ["utility-token", "airdrop"],
+  "extensions": {
+    "website": "https://numoro.io",
+    "twitter": "https://twitter.com/numoro_official"
+  }
 }
